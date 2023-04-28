@@ -1,20 +1,20 @@
 {
-  "name": "tailwindcss-color-shades",
+  "name": "@garnetlabs/tailwindcss-color-shades",
   "version": "0.0.1",
-  "description": "",
+  "description": "TailwindCSS plugin that uses pSBC to generate shades starting from the provided colors. ",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/garnet-org/tailwindcss-color-shades.git"
   },
   "keywords": [],
-  "author": "didof <didonato.fr@gmail.com>",
+  "author": "garnet-org <npm@garnet.ai>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/garnet-org/tailwindcss-color-shades/issues"
   },
-  "homepage": "https://github.com/garnet-org/tailwindcss-color-shades#readme"
+  "homepage": "https://github.com/garnet-org/tailwindcss-color-shades#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
