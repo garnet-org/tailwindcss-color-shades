@@ -1,6 +1,6 @@
 {
   "name": "@garnetlabs/tailwindcss-color-shades",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "TailwindCSS plugin that uses pSBC to generate shades starting from the provided colors. ",
   "main": "index.js",
   "repository": {

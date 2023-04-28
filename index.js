@@ -1,5 +1,5 @@
 const plugin = require("tailwindcss/plugin");
-const pSBC = require("../pSBC");
+const pSBC = require("./pSBC");
 
 module.exports = plugin.withOptions(function (options) {
   const intensityMap = new Map([
